@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Rohith Vadla 👋
 
-<!--
-**Rohith101coder/Rohith101coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack & AI/ML Developer** passionate about building scalable web applications and intelligent systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+- 💻 Building full-stack web platforms using **Java, Spring Boot, React.js, and MySQL / MongoDB**.
+- 🤖 Exploring Agentic AI, RAG pipelines, and LLM integrations.
+- 📦 Containerizing and deploying cloud-ready microservices with **Docker**.
+- 🧩 Actively sharpening data structures and algorithmic problem-solving skills.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Backend**  
+`Java` `Python` `JavaScript` `Spring Boot` `Spring Security` `Node.js` `Express.js` `REST APIs`
+
+**Frontend & Design**  
+`React.js` `HTML5` `CSS3` `Tailwind CSS` `Vite`
+
+**AI / ML & Data**  
+`LangChain` `RAG Architectures` `Qdrant / Vector DBs` `LLaMA` `BERT`
+
+**Databases & DevOps**  
+`MySQL` `MongoDB` `Docker` `Git` `Postman` `Maven` `Render` `Vercel`
+
+---
+
+### 📌 Featured Projects
+- **CareBridge** — Need-driven donation and scheduling platform powered by Spring Boot, React, and an AI microservice.
+- **SkillSync AI** — Intelligent resume-gap analyzer evaluating technical competencies against industry roles.
+- **Smart Healthcare Appointment** — Scalable appointment scheduling and consultation system built with Spring Boot.
+
+---
+
+### 📫 Connect with Me
+- LinkedIn: [Rohith Vadla](https://www.linkedin.com/in/rohith-vadla-451275256)
+- Email: rohithvadla07@gmail.com
