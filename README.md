@@ -1,40 +1,17 @@
-# Hi there, I'm Rohith Vadla 👋
+## Hi, I'm Rohith Vadla
 
-**Full-Stack & AI/ML Developer** passionate about building scalable web applications and intelligent systems.
+B.Tech CSE (AI & ML) graduate (2026). I build LLM applications and the evaluation around them, using Python/FastAPI and Java/Spring Boot. Based in Hyderabad.
 
----
+### Featured projects
+- **[ExamRAG](https://github.com/Rohith101coder/examrag)** — RAG API over course PDFs with an evaluation harness (retrieval metrics, LLM-as-judge, calibration) and a NetworkX knowledge-graph retriever. Python, FastAPI, Qdrant, pytest, CI.
+- **[CareBridge](https://github.com/Rohith101coder/carebridgebackend)** — Donation and orphanage-visit scheduling platform. Java 21, Spring Boot, React, MySQL, JWT, RAG assistant.
+- **[ResumeAnalyser](https://github.com/Rohith101coder/ResumeAnalyser)** — Resume vs job-description skill-gap analyzer. Java, Spring Boot, React.
 
-### 🚀 What I Do
-- 💻 Building full-stack web platforms using **Java, Spring Boot, React.js, and MySQL / MongoDB**.
-- 🤖 Exploring Agentic AI, RAG pipelines, and LLM integrations.
-- 📦 Containerizing and deploying cloud-ready microservices with **Docker**.
-- 🧩 Actively sharpening data structures and algorithmic problem-solving skills.
+### Tech
+**Languages:** Python, Java, SQL, JavaScript
+**AI:** RAG, embeddings, LLM-as-judge, retrieval metrics, NetworkX, Qdrant, LangChain
+**Backend:** FastAPI, Pydantic, Spring Boot, REST, JWT
+**Tools:** Git, Docker, GitHub Actions, pytest, MySQL
 
----
-
-### 🛠️ Tech Stack
-
-**Languages & Backend**  
-`Java` `Python` `JavaScript` `Spring Boot` `Spring Security` `Node.js` `Express.js` `REST APIs`
-
-**Frontend & Design**  
-`React.js` `HTML5` `CSS3` `Tailwind CSS` `Vite`
-
-**AI / ML & Data**  
-`LangChain` `RAG Architectures` `Qdrant / Vector DBs` `LLaMA` `BERT`
-
-**Databases & DevOps**  
-`MySQL` `MongoDB` `Docker` `Git` `Postman` `Maven` `Render` `Vercel`
-
----
-
-### 📌 Featured Projects
-- **CareBridge** — Need-driven donation and scheduling platform powered by Spring Boot, React, and an AI microservice.
-- **SkillSync AI** — Intelligent resume-gap analyzer evaluating technical competencies against industry roles.
-- **Smart Healthcare Appointment** — Scalable appointment scheduling and consultation system built with Spring Boot.
-
----
-
-### 📫 Connect with Me
-- LinkedIn: [Rohith Vadla](https://www.linkedin.com/in/rohith-vadla-451275256)
-- Email: rohithvadla07@gmail.com
+### Contact
+[LinkedIn](YOUR_CORRECT_LINKEDIN_URL) · rohithvadla07@gmail.com · [LeetCode](YOUR_CORRECT_LEETCODE_URL)
